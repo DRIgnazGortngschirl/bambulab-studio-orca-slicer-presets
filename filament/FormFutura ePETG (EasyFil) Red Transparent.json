@@ -1,49 +1,49 @@
 {
     "default_filament_colour": [
-        "#000000"
+        "#FF5959"
     ],
     "eng_plate_temp": [
-        "88"
+        "85"
     ],
     "eng_plate_temp_initial_layer": [
-        "100"
-    ],
-    "filament_cost": [
-        "45.32"
+        "85"
     ],
     "filament_flow_ratio": [
-        "1.08"
+        "0.9215"
     ],
     "filament_settings_id": [
-        "Fiberlogy PCTG Black Calibrated"
-    ],
-    "filament_vendor": [
-        "Fiberlogy"
+        "FormFutura ePETG (EasyFil) Red Transparent"
     ],
     "from": "User",
     "hot_plate_temp": [
-        "88"
+        "85"
     ],
     "hot_plate_temp_initial_layer": [
-        "100"
+        "85"
     ],
-    "inherits": "Generic PC",
+    "inherits": "Generic PETG",
     "is_custom_defined": "0",
-    "name": "Fiberlogy PCTG Black Calibrated",
+    "name": "FormFutura ePETG (EasyFil) Red Transparent",
     "nozzle_temperature": [
-        "265"
-    ],
-    "nozzle_temperature_range_high": [
-        "270"
-    ],
-    "nozzle_temperature_range_low": [
         "250"
     ],
+    "nozzle_temperature_initial_layer": [
+        "250"
+    ],
+    "nozzle_temperature_range_high": [
+        "255"
+    ],
+    "nozzle_temperature_range_low": [
+        "235"
+    ],
+    "temperature_vitrification": [
+        "90"
+    ],
     "textured_plate_temp": [
-        "88"
+        "85"
     ],
     "textured_plate_temp_initial_layer": [
-        "100"
+        "85"
     ],
     "version": "1.7.0.12"
 }
