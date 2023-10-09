@@ -1,6 +1,6 @@
 Naming Convention for Filament User Presets
 
-<MANUFACTURER> <MATERIAL> <(SPECIAL NAME OF MATERIAL)> <COLOR> Calibrated
+<MANUFACTURER> <MATERIAL> <(SPECIAL NAME OF MATERIAL)> <COLOR>
 
 Please do a "Flow Rate Calibration" in the Bambulab Studiuo
 
