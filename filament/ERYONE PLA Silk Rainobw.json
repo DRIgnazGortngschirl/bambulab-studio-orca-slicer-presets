@@ -1,0 +1,28 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "filament_flow_ratio": [
+        "1.142"
+    ],
+    "filament_settings_id": [
+        "ERYONE PLA Silk Rainobw"
+    ],
+    "filament_vendor": [
+        "ERYONE"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "ERYONE PLA Silk Rainobw",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "version": "1.7.0.18"
+}

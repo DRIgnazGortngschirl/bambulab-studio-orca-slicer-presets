@@ -1,0 +1,49 @@
+{
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "eng_plate_temp": [
+        "88"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "100"
+    ],
+    "filament_cost": [
+        "45.32"
+    ],
+    "filament_flow_ratio": [
+        "1.08"
+    ],
+    "filament_settings_id": [
+        "Fiberlogy PCTG Black"
+    ],
+    "filament_vendor": [
+        "Fiberlogy"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "88"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "Generic PC",
+    "is_custom_defined": "0",
+    "name": "Fiberlogy PCTG Black",
+    "nozzle_temperature": [
+        "265"
+    ],
+    "nozzle_temperature_range_high": [
+        "270"
+    ],
+    "nozzle_temperature_range_low": [
+        "250"
+    ],
+    "textured_plate_temp": [
+        "88"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "100"
+    ],
+    "version": "1.7.0.12"
+}

@@ -1,0 +1,31 @@
+{
+    "default_filament_colour": [
+        "#101010"
+    ],
+    "filament_flow_ratio": [
+        "1.051"
+    ],
+    "filament_settings_id": [
+        "Geeetech ABS Black"
+    ],
+    "filament_vendor": [
+        "Geeetech"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "is_custom_defined": "0",
+    "name": "Geeetech ABS Black",
+    "nozzle_temperature": [
+        "235"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "235"
+    ],
+    "nozzle_temperature_range_high": [
+        "240"
+    ],
+    "nozzle_temperature_range_low": [
+        "230"
+    ],
+    "version": "1.7.0.12"
+}

@@ -1,0 +1,25 @@
+{
+    "default_filament_colour": [
+        "#101010"
+    ],
+    "filament_settings_id": [
+        "FormFutura ABS (ApolloX) Black"
+    ],
+    "filament_vendor": [
+        "FormFutura"
+    ],
+    "from": "User",
+    "inherits": "Generic ABS",
+    "is_custom_defined": "0",
+    "name": "FormFutura ABS (ApolloX) Black",
+    "nozzle_temperature": [
+        "255"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "255"
+    ],
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "version": "1.7.0.12"
+}

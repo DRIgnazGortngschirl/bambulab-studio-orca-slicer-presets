@@ -1,0 +1,16 @@
+{
+    "default_filament_colour": [
+        "#FF0000"
+    ],
+    "filament_flow_ratio": [
+        "0.999"
+    ],
+    "filament_settings_id": [
+        "eSun PLA+ Red"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "eSun PLA+ Red",
+    "version": "1.7.0.12"
+}

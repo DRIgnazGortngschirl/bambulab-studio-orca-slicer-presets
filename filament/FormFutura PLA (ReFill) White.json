@@ -1,0 +1,31 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "filament_flow_ratio": [
+        "0.961"
+    ],
+    "filament_settings_id": [
+        "FormFutura PLA (ReFill) White"
+    ],
+    "filament_vendor": [
+        "FormFutura"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "FormFutura PLA (ReFill) White",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "nozzle_temperature_range_low": [
+        "200"
+    ],
+    "version": "1.7.0.12"
+}

@@ -1,0 +1,31 @@
+{
+    "default_filament_colour": [
+        "#FF0000"
+    ],
+    "filament_flow_ratio": [
+        "0.958"
+    ],
+    "filament_settings_id": [
+        "Prusament PLA Lipstick Red"
+    ],
+    "filament_vendor": [
+        "PRUSA"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Prusament PLA Lipstick Red",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "nozzle_temperature_range_low": [
+        "200"
+    ],
+    "version": "1.7.0.25"
+}
