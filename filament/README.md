@@ -1,6 +1,6 @@
 Naming Convention for Filament User Presets
 
-<MANUFACTURER> <MATERIAL> <(SPECIAL NAME OF MATERIAL)> <COLOR>
+\<MANUFACTURER> \<MATERIAL> <(SPECIAL NAME OF MATERIAL)> \<COLOR>
 
 e.g
 
