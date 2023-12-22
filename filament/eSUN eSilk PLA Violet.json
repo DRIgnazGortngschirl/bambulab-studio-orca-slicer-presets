@@ -13,7 +13,6 @@
     ],
     "from": "User",
     "inherits": "Generic PLA Silk",
-    "is_custom_defined": "0",
     "name": "eSUN eSilk PLA Violet",
     "nozzle_temperature": [
         "215"

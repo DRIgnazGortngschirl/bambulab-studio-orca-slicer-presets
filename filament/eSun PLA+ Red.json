@@ -10,7 +10,6 @@
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "eSun PLA+ Red",
     "version": "1.7.0.12"
 }

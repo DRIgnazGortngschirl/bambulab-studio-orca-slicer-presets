@@ -1,30 +1,27 @@
 {
     "default_filament_colour": [
-        "#FFFFFF"
+        "#0000FF"
     ],
     "filament_flow_ratio": [
-        "0.961"
+        "0.984"
     ],
     "filament_settings_id": [
-        "FormFutura PLA (ReFill) White"
+        "eSUN PLA+ Blue"
     ],
     "filament_vendor": [
-        "FormFutura"
+        "eSUN"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "FormFutura PLA (ReFill) White",
-    "nozzle_temperature": [
-        "215"
-    ],
+    "name": "eSUN PLA+ Blue",
     "nozzle_temperature_initial_layer": [
-        "215"
+        "225"
     ],
     "nozzle_temperature_range_high": [
-        "220"
+        "225"
     ],
     "nozzle_temperature_range_low": [
-        "200"
+        "205"
     ],
-    "version": "1.7.0.12"
+    "version": "1.7.0.18"
 }

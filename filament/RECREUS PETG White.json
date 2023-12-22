@@ -1,0 +1,33 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "filament_settings_id": [
+        "RECREUS PETG White"
+    ],
+    "filament_vendor": [
+        "RECREUS"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "0"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "0"
+    ],
+    "inherits": "Generic PETG",
+    "name": "RECREUS PETG White",
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "230"
+    ],
+    "textured_plate_temp": [
+        "0"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "0"
+    ],
+    "version": "1.7.0.29"
+}

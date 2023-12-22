@@ -10,7 +10,6 @@
     ],
     "from": "User",
     "inherits": "Generic ABS",
-    "is_custom_defined": "0",
     "name": "FormFutura ABS (ApolloX) Black",
     "nozzle_temperature": [
         "255"

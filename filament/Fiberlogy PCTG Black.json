@@ -28,7 +28,6 @@
         "100"
     ],
     "inherits": "Generic PC",
-    "is_custom_defined": "0",
     "name": "Fiberlogy PCTG Black",
     "nozzle_temperature": [
         "265"

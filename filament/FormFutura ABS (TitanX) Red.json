@@ -13,7 +13,6 @@
     ],
     "from": "User",
     "inherits": "Generic ABS",
-    "is_custom_defined": "0",
     "name": "FormFutura ABS (TitanX) Red",
     "nozzle_temperature": [
         "255"

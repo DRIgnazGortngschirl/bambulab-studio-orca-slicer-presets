@@ -25,7 +25,6 @@
         "50"
     ],
     "inherits": "Generic TPU",
-    "is_custom_defined": "0",
     "name": "OVERTURE TPU (95A) Black",
     "nozzle_temperature": [
         "225"

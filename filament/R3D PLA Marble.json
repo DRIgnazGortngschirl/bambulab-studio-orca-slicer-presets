@@ -13,7 +13,6 @@
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "R3D PLA Marble",
     "nozzle_temperature": [
         "200"

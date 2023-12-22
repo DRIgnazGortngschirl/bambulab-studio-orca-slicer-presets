@@ -13,7 +13,6 @@
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "FormFutura PLA (ReFill) Zinc Yellow",
     "version": "1.7.0.12"
 }

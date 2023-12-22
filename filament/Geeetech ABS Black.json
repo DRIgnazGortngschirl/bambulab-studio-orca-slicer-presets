@@ -13,7 +13,6 @@
     ],
     "from": "User",
     "inherits": "Generic ABS",
-    "is_custom_defined": "0",
     "name": "Geeetech ABS Black",
     "nozzle_temperature": [
         "235"

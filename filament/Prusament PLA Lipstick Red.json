@@ -2,8 +2,14 @@
     "default_filament_colour": [
         "#FF0000"
     ],
+    "filament_cost": [
+        "25"
+    ],
     "filament_flow_ratio": [
         "0.958"
+    ],
+    "filament_notes": [
+        "195C or 205C for a matte finish, or 220 or more for a more shiny finish"
     ],
     "filament_settings_id": [
         "Prusament PLA Lipstick Red"
@@ -13,13 +19,12 @@
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "Prusament PLA Lipstick Red",
     "nozzle_temperature": [
-        "215"
+        "230"
     ],
     "nozzle_temperature_initial_layer": [
-        "215"
+        "230"
     ],
     "nozzle_temperature_range_high": [
         "220"

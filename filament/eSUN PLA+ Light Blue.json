@@ -10,7 +10,6 @@
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "eSUN PLA+ Light Blue",
     "nozzle_temperature_initial_layer": [
         "225"

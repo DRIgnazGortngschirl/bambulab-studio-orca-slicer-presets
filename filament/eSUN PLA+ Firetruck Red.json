@@ -13,7 +13,6 @@
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "eSUN PLA+ Firetruck Red",
     "version": "1.7.0.12"
 }

@@ -16,7 +16,6 @@
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "3DJake ecoPLA Neon Orange",
     "nozzle_temperature": [
         "210"

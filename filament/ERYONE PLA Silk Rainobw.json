@@ -13,7 +13,6 @@
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "ERYONE PLA Silk Rainobw",
     "nozzle_temperature": [
         "215"

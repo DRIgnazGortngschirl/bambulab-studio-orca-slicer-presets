@@ -1,0 +1,24 @@
+{
+    "cool_plate_temp": [
+        "54"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "54"
+    ],
+    "default_filament_colour": [
+        "#9141AC"
+    ],
+    "filament_settings_id": [
+        "eSun PLALite Very Peri"
+    ],
+    "filament_vendor": [
+        "eSun"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "eSun PLALite Very Peri",
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "version": "1.7.0.29"
+}

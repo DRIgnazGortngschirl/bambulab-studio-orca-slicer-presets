@@ -13,7 +13,6 @@
     ],
     "from": "User",
     "inherits": "Generic PLA Silk",
-    "is_custom_defined": "0",
     "name": "Reprapper PLA Silk Red-Blue",
     "nozzle_temperature_range_high": [
         "220"

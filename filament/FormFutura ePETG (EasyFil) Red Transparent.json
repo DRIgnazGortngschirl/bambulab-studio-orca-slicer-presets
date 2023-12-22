@@ -22,7 +22,6 @@
         "85"
     ],
     "inherits": "Generic PETG",
-    "is_custom_defined": "0",
     "name": "FormFutura ePETG (EasyFil) Red Transparent",
     "nozzle_temperature": [
         "250"

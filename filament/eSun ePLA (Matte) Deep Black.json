@@ -1,0 +1,34 @@
+{
+    "default_filament_colour": [
+        "#202020"
+    ],
+    "filament_flow_ratio": [
+        "0.983"
+    ],
+    "filament_settings_id": [
+        "eSun ePLA (Matte) Deep Black"
+    ],
+    "filament_vendor": [
+        "eSun"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "0"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "0"
+    ],
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "eSun ePLA (Matte) Deep Black",
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "textured_plate_temp": [
+        "0"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "0"
+    ],
+    "version": "1.7.0.18"
+}
