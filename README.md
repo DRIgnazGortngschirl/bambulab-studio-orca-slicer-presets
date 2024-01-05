@@ -4,14 +4,14 @@ Welcome to the Bambulab Studio / Orca Slicer Presets repository! This repository
 
 ## Features
 
- * A growing collection of presets for Orca Slicer based 3D slicer applications.
+ * A growing collection of presets for Bambulab Studio / Orca Slicer based 3D slicer applications.
  * Presets are meticulously optimized for quality and print performance.
  * Regular updates and additions to the preset library
  * Community-driven contributions and improvements.
 
 ## Getting Started
  1.  Explore the Presets: Browse through the preset categories and select the ones that match your 3D printing needs.
- 2. Import Presets: Import the chosen presets into your 3D slicer software by following the provided instructions in the respective preset folders.
+ 2. Import Presets: Import the chosen presets into your 3D slicer software by droping them into the %AppData%\Roaming\BambuStudio\user\[NUMBER]\filamentfolder respective preset folders.
  3. Optimize Your Prints: Use the presets to optimize your 3D printing settings for superior print quality and efficiency.
 
 ## Contributing
@@ -34,4 +34,8 @@ For the best results please floow these instructions step by step.
 1. Begin with the Flow Rate Calibration steps provided in this official guide: https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#flow-rate
 2. Also, the line method is highly recommended to fine tune the Pressure Advance: https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#pressure-advance 
 3. For refined overhangs or bridging, the temperature tower just finds the perfect spot for the Hotend. Please run this with the recommended temperature range of the manufacturer.
-4. (optional) To understand the Maximum Volumetric Speed for each filament you can run through the steps at https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#max-volumetric-speed and determent the Maximum Volumetric Speed. This would help limit also the max speed / volumetric extrusion for the filament. 
+4. (optional) To understand the Maximum Volumetric Speed for each filament you can run through the steps at https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#max-volumetric-speed and determent the Maximum Volumetric Speed. This would help limit also the max speed / volumetric extrusion for the filament.
+
+#### ToDo
+- [ ] Prusa Slicer Filament Presets creation steps
+- [ ] ...
