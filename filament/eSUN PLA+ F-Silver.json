@@ -1,0 +1,27 @@
+{
+    "default_filament_colour": [
+        "#808080"
+    ],
+    "filament_flow_ratio": [
+        "1.009"
+    ],
+    "filament_settings_id": [
+        "eSUN PLA+ F-Silver"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "eSUN PLA+ F-Silver",
+    "nozzle_temperature": [
+        "225"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "nozzle_temperature_range_low": [
+        "210"
+    ],
+    "version": "1.7.0.12"
+}

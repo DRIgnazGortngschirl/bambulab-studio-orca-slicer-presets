@@ -1,0 +1,40 @@
+{
+    "default_filament_colour": [
+        "#8000FF"
+    ],
+    "filament_flow_ratio": [
+        "1.013"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "PLA eSUN PLA+ Purple - OAB 23.08.31"
+    ],
+    "filament_start_gcode": [
+        "; chamber fan speed 70% for PLA. Increase to S255 if you run your \n; printer in a hot environment.\nM106 P3 S175"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "eSUN PLA+ @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "eSUN PLA+ Purple",
+    "slow_down_layer_time": [
+        "2"
+    ],
+    "temperature_vitrification": [
+        "60"
+    ],
+    "textured_plate_temp": [
+        "60"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "1.7.0.10"
+}

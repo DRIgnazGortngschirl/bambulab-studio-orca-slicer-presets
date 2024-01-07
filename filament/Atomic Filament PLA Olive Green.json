@@ -1,0 +1,45 @@
+{
+    "default_filament_colour": [
+        "#7EA800"
+    ],
+    "filament_cost": [
+        "25"
+    ],
+    "filament_flow_ratio": [
+        "1.001"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_settings_id": [
+        "PLA Atomic Olive Green - OAB 23.08.06"
+    ],
+    "filament_start_gcode": [
+        "; chamber fan speed 70% for PLA. Increase to S255 if you run your \n; printer in a hot environment.\nM106 P3 S175"
+    ],
+    "filament_vendor": [
+        "Atomic"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Bambu PLA Basic @BBL X1C",
+    "name": "Atomic Filament PLA Olive Green",
+    "slow_down_layer_time": [
+        "2"
+    ],
+    "temperature_vitrification": [
+        "60"
+    ],
+    "textured_plate_temp": [
+        "60"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "1.4.1.1"
+}
