@@ -1,0 +1,21 @@
+{
+    "default_filament_colour": [
+        "#FF0000"
+    ],
+    "filament_cost": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "Reprapper PLA Silk Red-Blue"
+    ],
+    "filament_vendor": [
+        "Reprapper"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA Silk",
+    "name": "Reprapper PLA Silk Red-Blue",
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "version": "1.7.0.12"
+}

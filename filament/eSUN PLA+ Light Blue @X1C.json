@@ -1,0 +1,24 @@
+{
+    "default_filament_colour": [
+        "#0CD0E7"
+    ],
+    "filament_settings_id": [
+        "eSUN PLA+ Light Blue"
+    ],
+    "filament_vendor": [
+        "eSUN"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "eSUN PLA+ Light Blue",
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "nozzle_temperature_range_low": [
+        "210"
+    ],
+    "version": "1.7.0.18"
+}
