@@ -1,4 +1,4 @@
-![Presets](https://img.shields.io/github/directory-file-count/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/filament?type=file&extension=json&label=Filament%20presets%20in%20collection)
+![Presets](https://img.shields.io/github/directory-file-count/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/filament?type=file&extension=json&label=Presets%20in%20collection)
 ![](https://img.shields.io/github/last-commit/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets?label=Last%20preset%20added)
 ![](https://img.shields.io/github/contributors/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets?label=Preset%20contributors)
 
@@ -19,11 +19,16 @@ Welcome to the Bambulab Studio / Orca Slicer Presets repository! This repository
  3. Import Presets: Import the chosen presets into your 3D slicer software by downloading the repository and dropping them into the folder respective preset folders.
 Full Path: 
 ```
-C:\Users\USER\AppData\Roaming\OrcaSlicer\user\default
+C:\Users\[USER]\AppData\Roaming\BambuStudio\user\[NUMBER]
+or
+C:\Users\[USER]\AppData\Roaming\OrcaSlicer\user\[NUMBER]
+
 ```  
 Relative Path: 
 ```
-%AppData%\Roaming\BambuStudio\user\[NUMBER]\filament
+%AppData%\Roaming\BambuStudio\user\[NUMBER]
+or
+%AppData%\Roaming\OrcaSlicer\user\[NUMBER]
 ```
 
 # Contributing
@@ -39,14 +44,14 @@ For the best results, please follow these instructions step by step.
  4. Now to create preset as optimized as possible again run a manual check with Manual mode in Flow Dynamics Calibration
  5. So do the same manual calibration for the "Flow Rate Calibration".
 
- * NOTE: Make sure when ever you got a calibration done, that you select the profile before continuing  the next calibration, as selecting a default profile will not result in the best combined settings for both calibration methods.
+ * NOTE: Make sure whenever you got a calibration done, you select the profile before continuing with the next calibration, as selecting a default profile will not result in the best combined settings for both calibration methods.
 
 ### Orca Slicer <img src="https://github.com/SoftFever/OrcaSlicer/blob/main/resources/images/OrcaSlicer_192px_transparent.png" width="15">
 For the best results, please follow these instructions step by step.
 
 1. Begin with the "Flow Rate Calibration" steps provided in this official guide: https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#flow-rate
-2. Also, the line method is highly recommended to fine tune the Pressure Advance: https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#pressure-advance 
-3. For refined overhangs or bridging, the "Temperature Tower" just finds the perfect spot for the Hotend. Please run this with the recommended temperature range of the manufacturer.  https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Temp-tower
+2. Also, the line method is highly recommended to finetune the Pressure Advance: https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#pressure-advance 
+3. For refined overhangs or bridging, the "Temperature Tower" just finds the perfect spot for the hotend. Please run this with the recommended temperature range of the manufacturer.  https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Temp-tower
 4. (optional) To get the "Maximum Volumetric Speed" for each filament, you can run through the steps at https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#max-volumetric-speed and determining the "Maximum Volumetric Speed". This would help limit the max speed / volumetric extrusion for the filament.
 
 #### ToDo
