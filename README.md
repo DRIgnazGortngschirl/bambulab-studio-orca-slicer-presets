@@ -30,6 +30,20 @@ Relative Path:
 or
 %AppData%\Roaming\OrcaSlicer\user\[NUMBER]
 ```
+4. IMPORTANT! Please also place the inherited presets inside the folder "![main/filament/inherits](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/tree/main/filament/inherits)" inside the respective preset folders, otherwise some presets which are based on other "presets" will not work!
+Full Path: 
+```
+C:\Users\[USER]\AppData\Roaming\OrcaSlicer\system\BBL\filament
+or
+C:\Users\[USER]\AppData\Roaming\BambuStudio\system\BBL\filament
+```
+Relative Path: 
+```
+%AppData%\Roaming\BambuStudio\system\BBL\filament
+or
+%AppData%\Roaming\OrcaSlicer\system\BBL\filament
+```
+
 
 # Contributing
 
