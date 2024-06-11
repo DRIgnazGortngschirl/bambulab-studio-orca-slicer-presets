@@ -1,24 +1,24 @@
 {
     "default_filament_colour": [
-        "#FFFFFF"
+        "#92FF24"
     ],
     "filament_cost": [
         "25"
     ],
     "filament_flow_ratio": [
-        "1.016"
+        "0.965"
     ],
     "filament_max_volumetric_speed": [
         "20"
     ],
     "filament_settings_id": [
-        "PLA eSUN PLA+ White - OAB 23.08.31"
+        "Sunlu PLA+ Green @X1C"
     ],
     "filament_start_gcode": [
         "; chamber fan speed 70% for PLA. Increase to S255 if you run your \n; printer in a hot environment.\nM106 P3 S175"
     ],
     "filament_vendor": [
-        "eSUN"
+        "Sunlu"
     ],
     "from": "User",
     "hot_plate_temp": [
@@ -28,12 +28,18 @@
         "60"
     ],
     "inherits": "Generic PLA",
-    "name": "eSUN PLA+ White",
+    "name": "Sunlu PLA+ Green @X1C",
+    "nozzle_temperature_range_high": [
+        "235"
+    ],
+    "nozzle_temperature_range_low": [
+        "210"
+    ],
     "slow_down_layer_time": [
         "2"
     ],
     "temperature_vitrification": [
-        "60"
+        "57"
     ],
     "textured_plate_temp": [
         "60"

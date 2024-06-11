@@ -1,4 +1,4 @@
-![Presets](https://img.shields.io/github/directory-file-count/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/filament?type=file&extension=json&label=Presets%20in%20collection)
+![Presets](https://img.shields.io/github/directory-file-count/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/filament?type=file&extension=json&label=Filament%20presets%20in%20collection)
 ![](https://img.shields.io/github/last-commit/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets?label=Last%20preset%20added)
 ![](https://img.shields.io/github/contributors/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets?label=Preset%20contributors)
 
@@ -19,9 +19,9 @@ Welcome to the Bambulab Studio / Orca Slicer Presets repository! This repository
  3. Import Presets: Import the chosen presets into your 3D slicer software by downloading the repository and dropping them into the folder respective preset folders.
 Full Path: 
 ```
-C:\Users\[USER]\AppData\Roaming\BambuStudio\user\[NUMBER]
+C:\Users\%USERNAME%\AppData\Roaming\BambuStudio\user\[NUMBER]
 or
-C:\Users\[USER]\AppData\Roaming\OrcaSlicer\user\[NUMBER]
+C:\Users\%USERNAME%\AppData\Roaming\OrcaSlicer\user\
 
 ```  
 Relative Path: 
@@ -33,9 +33,9 @@ or
 4. IMPORTANT! Please also place the inherited presets inside the folder "![main/filament/inherits](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/tree/main/filament/inherits)" inside the respective preset folders, otherwise some presets which are based on other "presets" will not work!
 Full Path: 
 ```
-C:\Users\[USER]\AppData\Roaming\OrcaSlicer\system\BBL\filament
+C:\Users\%USERNAME%\AppData\Roaming\OrcaSlicer\system\BBL\filament
 or
-C:\Users\[USER]\AppData\Roaming\BambuStudio\system\BBL\filament
+C:\Users\%USERNAME%\AppData\Roaming\BambuStudio\system\BBL\filament
 ```
 Relative Path: 
 ```
@@ -54,19 +54,21 @@ For the best results, please follow these instructions step by step.
 
  1. Begin with the "Flow Dynamics Calibration" steps provided in this official guide https://wiki.bambulab.com/en/software/bambu-studio/calibration_pa
  2. Use the auto calibration mode first, if that one does not successfully finish, please skip to step 4.
- 3. Continue on with auto calibration mode for "Flow Rate Calibration" https://wiki.bambulab.com/en/software/bambu-studio/calibration_flow_rate
- 4. Now to create preset as optimized as possible again run a manual check with Manual mode in Flow Dynamics Calibration
+ 3. Continue with auto-calibration mode for "Flow Rate Calibration" https://wiki.bambulab.com/en/software/bambu-studio/calibration_flow_rate
+ 4. Now to create a preset as optimized as possible again run a manual check with Manual mode in Flow Dynamics Calibration
  5. So do the same manual calibration for the "Flow Rate Calibration".
 
- * NOTE: Make sure whenever you got a calibration done, you select the profile before continuing with the next calibration, as selecting a default profile will not result in the best combined settings for both calibration methods.
+ * NOTE: Make sure whenever you get a calibration done, you select the profile before continuing with the next calibration, as selecting a default profile will not result in the best combined settings for both calibration methods.
 
 ### Orca Slicer <img src="https://github.com/SoftFever/OrcaSlicer/blob/main/resources/images/OrcaSlicer_192px_transparent.png" width="15">
 For the best results, please follow these instructions step by step.
 
 1. Begin with the "Flow Rate Calibration" steps provided in this official guide: https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#flow-rate
 2. Also, the line method is highly recommended to finetune the Pressure Advance: https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#pressure-advance 
-3. For refined overhangs or bridging, the "Temperature Tower" just finds the perfect spot for the hotend. Please run this with the recommended temperature range of the manufacturer.  https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Temp-tower
-4. (optional) To get the "Maximum Volumetric Speed" for each filament, you can run through the steps at https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#max-volumetric-speed and determining the "Maximum Volumetric Speed". This would help limit the max speed / volumetric extrusion for the filament.
+3. Continue with the "Flow Dynamics Calibration" steps provided in this guide https://wiki.bambulab.com/en/software/bambu-studio/calibration_pa
+4. For refined overhangs or bridging, the "Temperature Tower" just finds the perfect spot for the hotend. Please run this with the recommended temperature range of the manufacturer.  https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#Temp-tower
+5. (optional) To get the "Maximum Volumetric Speed" for each filament, you can run through the steps at https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#max-volumetric-speed and determine the "Maximum Volumetric Speed". This would help limit the max speed / volumetric extrusion for the filament.
 
 #### ToDo
-- [ ] ...
+- [ ] More Presets
+- [ ] GIFs for docu on importing presets
