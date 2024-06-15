@@ -17,20 +17,21 @@ Welcome to the Bambulab Studio / Orca Slicer Presets repository! This repository
  1.  Explore the Presets: Browse through the preset categories (Machine, Filament and Process) and select the ones that match your 3D printing needs.
  2. Optimize Your Prints: Use the presets to optimize your 3D printing settings for superior print quality and efficiency.
  3. Import Presets: Import the chosen presets into your 3D slicer software by downloading the repository and dropping them into the folder respective preset folders.
+ 4. IMPORTANT! Please also place the inherited presets inside the folder "![main/filament/inherits](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/tree/main/filament/inherits)" inside the respective preset folders, otherwise some presets which are based on other "presets" will not work!
+ 
 Full Path: 
 ```
-C:\Users\%USERNAME%\AppData\Roaming\BambuStudio\user\[NUMBER]
+C:\Users\%USERNAME%\AppData\Roaming\OrcaSlicer\user\[NUMBER]
 or
-C:\Users\%USERNAME%\AppData\Roaming\OrcaSlicer\user\
-
+C:\Users\%USERNAME%\AppData\Roaming\BambuStudio\user\[NUMBER]
 ```  
 Relative Path: 
 ```
-%AppData%\Roaming\BambuStudio\user\[NUMBER]
-or
 %AppData%\Roaming\OrcaSlicer\user\[NUMBER]
+or
+%AppData%\Roaming\BambuStudio\user\[NUMBER]
 ```
-4. IMPORTANT! Please also place the inherited presets inside the folder "![main/filament/inherits](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/tree/main/filament/inherits)" inside the respective preset folders, otherwise some presets which are based on other "presets" will not work!
+
 Full Path: 
 ```
 C:\Users\%USERNAME%\AppData\Roaming\OrcaSlicer\system\BBL\filament
@@ -39,11 +40,10 @@ C:\Users\%USERNAME%\AppData\Roaming\BambuStudio\system\BBL\filament
 ```
 Relative Path: 
 ```
-%AppData%\Roaming\BambuStudio\system\BBL\filament
-or
 %AppData%\Roaming\OrcaSlicer\system\BBL\filament
+or
+%AppData%\Roaming\BambuStudio\system\BBL\filament
 ```
-
 
 # Contributing
 

@@ -1,6 +1,6 @@
 Naming Convention for Process User Presets
 
-\<NOZLESIZE> @\<PRINTER SHORT NAME> - \<CHANGES SUMMARY>
+\<LAYERHEIGHT> <TYPE> @\<PRINTER SHORT NAME> - \<CHANGES SUMMARY>
 
 e.g
 
