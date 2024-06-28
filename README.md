@@ -6,6 +6,8 @@
 
 Welcome to the Bambu Studio / Orca Slicer Presets repository! This repository is dedicated to storing / collecting presets that have been meticulously crafted and optimized for use in 3D printing and slicing applications. Whether you're a 3D printing enthusiast, engineer, or designer, our collection of presets aims to simplify your workflow and elevate your 3D printing experience.
 
+<img src="https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/blob/main/REPO-MEDIA/bambulab-studio-orca-slicer-presets-init-view.gif" width="50%">
+
 ## Features
 
  * A growing collection of presets for the Bambu Studio / Orca Slicer slicer.
