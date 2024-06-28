@@ -2,13 +2,13 @@
 ![](https://img.shields.io/github/last-commit/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets?label=Last%20preset%20added)
 ![](https://img.shields.io/github/contributors/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets?label=Preset%20contributors)
 
-# Bambu Studio <img src="https://wiki.bambulab.com/admin/home/logo-large.png" width="26"> / Orca Slicer Presets <img src="https://github.com/SoftFever/OrcaSlicer/blob/main/resources/images/OrcaSlicer_192px_transparent.png" width="27">
+# Bambu Studio <img src="https://wiki.bambulab.com/admin/home/logo-large.png" width="26"> / Orca Slicer Presets <img src="https://github.com/SoftFever/OrcaSlicer/blob/main/resources/images/OrcaSlicer_192px_transparent.png" width="24">
 
 Welcome to the Bambu Studio / Orca Slicer Presets repository! This repository is dedicated to storing / collecting presets that have been meticulously crafted and optimized for use in 3D printing and slicing applications. Whether you're a 3D printing enthusiast, engineer, or designer, our collection of presets aims to simplify your workflow and elevate your 3D printing experience.
 
 ## Features
 
- * A growing collection of presets for Bambu Studio / Orca Slicer based 3D slicer applications.
+ * A growing collection of presets for the Bambu Studio / Orca Slicer slicer.
  * Presets are meticulously optimized for quality and print performance.
  * Regular updates and additions to the preset library.
  * Community-driven contributions and improvements.
