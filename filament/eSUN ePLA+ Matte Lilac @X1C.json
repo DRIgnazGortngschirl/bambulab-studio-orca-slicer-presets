@@ -1,0 +1,24 @@
+{
+    "default_filament_colour": [
+        "#FF55FF"
+    ],
+    "filament_flow_ratio": [
+        "1.002"
+    ],
+    "filament_settings_id": [
+        "eSUN ePLA+ Matte Lilac @X1C"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "eSUN ePLA+ Matte Lilac @X1C",
+    "nozzle_temperature": [
+        "225"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "version": "1.7.0.12"
+}

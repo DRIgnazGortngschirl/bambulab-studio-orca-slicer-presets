@@ -1,0 +1,28 @@
+{
+    "default_filament_colour": [
+        "#80FF00"
+    ],
+    "filament_flow_ratio": [
+        "0.9622"
+    ],
+    "filament_settings_id": [
+        "x PLA Glow Multicolor"
+    ],
+    "filament_vendor": [
+        "x"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "x PLA Glow Multicolor",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "215"
+    ],
+    "nozzle_temperature_range_high": [
+        "220"
+    ],
+    "version": "1.7.0.18"
+}
