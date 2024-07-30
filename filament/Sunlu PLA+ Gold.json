@@ -1,0 +1,37 @@
+{
+    "default_filament_colour": [
+        "#808000"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "1.058"
+    ],
+    "filament_settings_id": [
+        "Sunlu PLA+ Gold"
+    ],
+    "filament_vendor": [
+        "Sunlu"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Sunlu PLA+ Gold",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "nozzle_temperature_range_high": [
+        "215"
+    ],
+    "nozzle_temperature_range_low": [
+        "205"
+    ],
+    "pressure_advance": [
+        "0.044"
+    ],
+    "version": "1.7.0.18"
+}

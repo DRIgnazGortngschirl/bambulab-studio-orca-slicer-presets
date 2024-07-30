@@ -1,24 +1,31 @@
 {
     "default_filament_colour": [
-        "#20FF20"
+        "#FFFFFF"
     ],
     "filament_flow_ratio": [
-        "0.954"
+        "0.975"
     ],
     "filament_settings_id": [
-        "Sunlu PLA+ Green @X1C"
+        "Sunlu PLA+ White"
     ],
     "filament_vendor": [
         "Sunlu"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "Sunlu PLA+ Green @X1C",
+    "is_custom_defined": "0",
+    "name": "Sunlu PLA+ White",
     "nozzle_temperature": [
-        "235"
+        "210"
     ],
     "nozzle_temperature_initial_layer": [
-        "235"
+        "210"
     ],
-    "version": "1.7.0.12"
+    "nozzle_temperature_range_high": [
+        "215"
+    ],
+    "nozzle_temperature_range_low": [
+        "205"
+    ],
+    "version": "1.7.0.18"
 }
