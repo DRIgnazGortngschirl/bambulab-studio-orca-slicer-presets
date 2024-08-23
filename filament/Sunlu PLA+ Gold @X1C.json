@@ -1,18 +1,18 @@
 {
     "default_filament_colour": [
-        "#202020"
+        "#808000"
     ],
     "enable_pressure_advance": [
         "1"
     ],
     "filament_flow_ratio": [
-        "0.983"
+        "1.058"
     ],
     "filament_settings_id": [
-        "eSun ePLA (Matte) Deep Black @X1C"
+        "Sunlu PLA+ Gold @X1C"
     ],
     "filament_vendor": [
-        "eSun"
+        "Sunlu"
     ],
     "from": "User",
     "hot_plate_temp": [
@@ -23,24 +23,21 @@
     ],
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
-    "name": "eSun ePLA (Matte) Deep Black @X1C",
+    "name": "Sunlu PLA+ Gold @X1C",
     "nozzle_temperature": [
-        "195"
+        "210"
     ],
     "nozzle_temperature_initial_layer": [
-        "195"
+        "210"
     ],
     "nozzle_temperature_range_high": [
-        "230"
+        "215"
+    ],
+    "nozzle_temperature_range_low": [
+        "205"
     ],
     "pressure_advance": [
-        "0.028"
-    ],
-    "textured_plate_temp": [
-        "0"
-    ],
-    "textured_plate_temp_initial_layer": [
-        "0"
+        "0.044"
     ],
     "version": "1.7.0.18"
 }
