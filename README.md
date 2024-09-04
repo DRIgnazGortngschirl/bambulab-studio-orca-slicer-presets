@@ -81,5 +81,10 @@ For the best results, please follow these instructions step by step.
 - [ ] GIFs for docu on importing presets
 
 # Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets&type=Date)](https://star-history.com/#DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets&Date)
+<a href="https://star-history.com/#DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets&type=Date" />
+ </picture>
+</a>
