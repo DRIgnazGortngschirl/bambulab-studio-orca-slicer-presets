@@ -79,3 +79,7 @@ For the best results, please follow these instructions step by step.
 #### To-Do
 - [ ] More Presets
 - [ ] GIFs for docu on importing presets
+
+# Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets&type=Date)](https://star-history.com/#DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets&Date)
