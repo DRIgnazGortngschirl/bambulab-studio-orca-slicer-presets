@@ -1,0 +1,12 @@
+{
+    "from": "User",
+    "host_type": "flashforge",
+    "inherits": "Flashforge Adventurer 3 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Flashforge Adventurer 3 0.4 nozzle",
+    "print_host": "X.X.X.X",
+    "print_host_webui": "http://X.X.X.X:8080/?action=stream243",
+    "printer_settings_id": "Flashforge Adventurer 3 Series 0.4 Nozzle - Multi",
+    "support_multi_bed_types": "1",
+    "version": "2.1.1.0"
+}

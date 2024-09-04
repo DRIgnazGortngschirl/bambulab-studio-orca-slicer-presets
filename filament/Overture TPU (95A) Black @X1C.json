@@ -15,7 +15,7 @@
         "50"
     ],
     "filament_settings_id": [
-        "OVERTURE TPU (95A) Black"
+        "Overture TPU (95A) Black"
     ],
     "from": "User",
     "hot_plate_temp": [
@@ -25,7 +25,7 @@
         "50"
     ],
     "inherits": "Generic TPU",
-    "name": "OVERTURE TPU (95A) Black",
+    "name": "Overture TPU (95A) Black",
     "nozzle_temperature": [
         "225"
     ],
