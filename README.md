@@ -16,20 +16,21 @@ Welcome to the Bambu Studio / Orca Slicer Presets repository! This repository is
  * Community-driven contributions and improvements.
 
 # Getting Started
- 1.  Explore the Presets: Browse through the preset categories (Machine, Filament and Process) and select the ones that match your 3D printing needs.
- 2. Optimize Your Prints: Use the presets to optimize your 3D printing settings for superior print quality and efficiency.
- 3. Import Presets: Import the chosen presets into your 3D slicer software by downloading the repository and dropping them into the folder respective preset folders.
- 4. IMPORTANT! Please also place the inherited presets inside the folder "[main/filament\/inherits](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/tree/main/filament/inherits)" inside the respective preset folders, otherwise some presets which are based on other "presets" will not work!
+ 1. 🔍 Explore the presets: Browse through the preset categories (Machine, Filament and Process) and select the ones that match your 3D printing needs.
+ 2. 📈 Optimize your prints: Use the presets to optimize your 3D printing settings for superior print quality and efficiency.
+ 3. 📥 Import Presets: Import the chosen presets into your 3D slicer software by downloading the repository and dropping them into the folder respective preset folders.
+> [!CAUTION]
+> Also make sure to place place also the inherited presets inside the folder "[main/filament\/inherits](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/tree/main/filament/inherits)" inside the respective preset folders, otherwise some presets which are based on other "presets" will not work!
 
 
 ## For Orca Slicer
-Full Path: 
+📁 Full Path: 
 ```
 C:\Users\%USERNAME%\AppData\Roaming\OrcaSlicer\user\[NUMBER]
 or
 C:\Users\%USERNAME%\AppData\Roaming\OrcaSlicer\system\BBL\filament
 ```  
-Relative Path: 
+📁 Relative Path: 
 ```
 %AppData%\Roaming\OrcaSlicer\user\[NUMBER]
 or
@@ -38,13 +39,13 @@ or
 
 
 ## For Bambu Studio
-Full Path: 
+📁 Full Path: 
 ```
 C:\Users\%USERNAME%\AppData\Roaming\BambuStudio\user\[NUMBER]
 or
 C:\Users\%USERNAME%\AppData\Roaming\BambuStudio\system\BBL\filament
 ```
-Relative Path: 
+📁 Relative Path: 
 ```
 %AppData%\Roaming\BambuStudio\user\[NUMBER]
 or
@@ -52,10 +53,12 @@ or
 ```
 
 # Contributing
+Feel free to fork the repo, submit your own presets, or enhance existing ones. Every contribution helps the community optimize their 3D printing experience!
 
 ## Filament Presets
 
- * NOTE: Make sure whenever you have done a calibration, select the profile before continuing with the next calibration, as selecting a default profile will not result in the best preset for all calibration methods.
+> [!NOTE]
+> Make sure whenever you have done a calibration, select the profile before continuing with the next calibration, as selecting a default profile will not result in the best preset for all calibration methods.
 
 ### Bambu Studio <img src="https://wiki.bambulab.com/admin/home/logo-large.png" width="17">
 For the best results, please follow these instructions step by step.
@@ -81,6 +84,7 @@ For the best results, please follow these instructions step by step.
 - [ ] GIFs for docu on importing presets
 
 # Star History
+Thank you all so much for over 100 stars! When I first started, my goal was simply to gather a few presets to speed up printing and benefit from presets that were already fine-tuned. Your support has truly exceeded my expectations!
 <a href="https://star-history.com/#DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets&Date">
  <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets&type=Date&theme=dark" />
