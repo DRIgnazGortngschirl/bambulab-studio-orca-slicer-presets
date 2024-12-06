@@ -19,6 +19,9 @@ Welcome to the Bambu Studio / Orca Slicer Presets repository! This repository is
  1. 🔍 Explore the presets: Browse through the preset categories (Machine, Filament and Process) and select the ones that match your 3D printing needs.
  2. 📈 Optimize your prints: Use the presets to optimize your 3D printing settings for superior print quality and efficiency.
  3. 📥 Import Presets: Import the chosen presets into your 3D slicer software by downloading the repository and dropping them into the folder respective preset folders.
+
+Inductions can be found here for [importing presets](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/blob/main/REPO-MEDIA/presets-import.gif ) and [show hidden files](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/blob/main/REPO-MEDIA/show-hidden-files.gif) to easily access the AppData Folder on Windows.
+
 > [!CAUTION]
 > Also make sure to place place also the inherited presets inside the folder "[main/filament\/inherits](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/tree/main/filament/inherits)" inside the respective preset folders, otherwise some presets which are based on other "presets" will not work!
 
@@ -80,8 +83,8 @@ For the best results, please follow these instructions step by step.
 5. (optional) To get the "Maximum Volumetric Speed" for each filament, you can run through the steps at https://github.com/SoftFever/OrcaSlicer/wiki/Calibration#max-volumetric-speed and determine the "Maximum Volumetric Speed". This would help limit the max speed / volumetric extrusion for the filament.
 
 #### To-Do
+- [x] GIFs for docu on importing presets
 - [ ] More Presets
-- [ ] GIFs for docu on importing presets
 
 # Star History
 Thank you all so much for over 100 stars! When I first started, my goal was simply to gather a few presets to speed up printing and benefit from presets that were already fine-tuned. Your support has truly exceeded my expectations!
