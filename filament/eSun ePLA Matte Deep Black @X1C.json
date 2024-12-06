@@ -9,7 +9,7 @@
         "0.983"
     ],
     "filament_settings_id": [
-        "eSun ePLA (Matte) Deep Black @X1C"
+        "eSun ePLA Matte Deep Black @X1C"
     ],
     "filament_vendor": [
         "eSun"
@@ -23,7 +23,7 @@
     ],
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
-    "name": "eSun ePLA (Matte) Deep Black @X1C",
+    "name": "eSun ePLA Matte Deep Black @X1C",
     "nozzle_temperature": [
         "195"
     ],
@@ -35,12 +35,6 @@
     ],
     "pressure_advance": [
         "0.028"
-    ],
-    "textured_plate_temp": [
-        "0"
-    ],
-    "textured_plate_temp_initial_layer": [
-        "0"
     ],
     "version": "1.7.0.18"
 }

@@ -1,0 +1,66 @@
+{
+    "additional_cooling_fan_speed": [
+        "100"
+    ],
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "filament_cost": [
+        "50"
+    ],
+    "filament_flow_ratio": [
+        "0.98"
+    ],
+    "filament_max_volumetric_speed": [
+        "2.9"
+    ],
+    "filament_retract_before_wipe": [
+        "55%"
+    ],
+    "filament_retraction_length": [
+        "nil"
+    ],
+    "filament_settings_id": [
+        "Ninjaflex TPU (85A) @X1C"
+    ],
+    "filament_start_gcode": [
+        "; chamber fan speed 50% for TPU. Increase to S255 if you run your \n; printer in a hot environment.\nM106 P3 S127"
+    ],
+    "filament_vendor": [
+        "NinjaTek"
+    ],
+    "filament_z_hop_types": [
+        "Slope Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "30"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "30"
+    ],
+    "inherits": "Generic TPU",
+    "name": "Ninjaflex TPU (85A) @X1C",
+    "nozzle_temperature": [
+        "250"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "nozzle_temperature_range_low": [
+        "225"
+    ],
+    "slow_down_layer_time": [
+        "2"
+    ],
+    "temperature_vitrification": [
+        "60"
+    ],
+    "textured_plate_temp": [
+        "30"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "30"
+    ],
+    "version": "1.6.0.3"
+}

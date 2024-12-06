@@ -1,0 +1,57 @@
+{
+    "cool_plate_temp": [
+        "35"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "35"
+    ],
+    "default_filament_colour": [
+        "#DE0191"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "65"
+    ],
+    "filament_cost": [
+        "21"
+    ],
+    "filament_flow_ratio": [
+        "0.953"
+    ],
+    "filament_settings_id": [
+        "C-TECH PETG Telecommunications Purple RAL4010 @X1C"
+    ],
+    "filament_vendor": [
+        "C-TECH"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "0"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "0"
+    ],
+    "inherits": "Generic PETG",
+    "name": "C-TECH PETG Telecommunications Purple RAL4010 @X1C",
+    "nozzle_temperature": [
+        "235"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "235"
+    ],
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "235"
+    ],
+    "textured_plate_temp": [
+        "0"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "0"
+    ],
+    "version": "1.7.0.29"
+}

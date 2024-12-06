@@ -6,7 +6,7 @@
         "0.9622"
     ],
     "filament_settings_id": [
-        "x PLA Glow Multicolor"
+        "x PLA Glow Multicolor @X1C"
     ],
     "filament_vendor": [
         "x"
@@ -14,7 +14,7 @@
     "from": "User",
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
-    "name": "x PLA Glow Multicolor",
+    "name": "x PLA Glow Multicolor @X1C",
     "nozzle_temperature": [
         "215"
     ],

@@ -1,0 +1,46 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "0.943"
+    ],
+    "filament_settings_id": [
+        "eSun ePLA Matte White @X1C"
+    ],
+    "filament_vendor": [
+        "eSun"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "42"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "42"
+    ],
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "eSun ePLA Matte White @X1C",
+    "nozzle_temperature": [
+        "195"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "195"
+    ],
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "pressure_advance": [
+        "0.028"
+    ],
+    "textured_plate_temp": [
+        "0"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "0"
+    ],
+    "version": "1.7.0.18"
+}
