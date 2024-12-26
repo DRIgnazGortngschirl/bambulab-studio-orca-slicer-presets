@@ -1,6 +1,6 @@
 ![Presets](https://img.shields.io/github/directory-file-count/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/filament?type=file&extension=json&label=Filament%20presets%20in%20collection)
-![](https://img.shields.io/github/last-commit/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets?label=Last%20preset%20added)
-![](https://img.shields.io/github/contributors/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets?label=Preset%20contributors)
+![](https://img.shields.io/github/last-commit/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets?label=Last%20Updated)
+![](https://img.shields.io/github/contributors/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets?label=Contributors)
 
 # Bambu Studio <img src="https://wiki.bambulab.com/admin/home/logo-large.png" width="26"> / Orca Slicer Presets <img src="https://github.com/SoftFever/OrcaSlicer/blob/main/resources/images/OrcaSlicer_192px_transparent.png" width="24">
 
