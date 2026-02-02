@@ -6,7 +6,7 @@
 
 Welcome to the Bambu Studio / Orca Slicer Presets repository! This repository is dedicated to storing / collecting presets that have been meticulously crafted and optimized for use in 3D printing and slicing applications. Whether you're a 3D printing enthusiast, engineer, or designer, our collection of presets aims to simplify your workflow and elevate your 3D printing experience.
 
-<img src="https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/blob/main/REPO-MEDIA/bambulab-studio-orca-slicer-presets-init-view.gif" width="50%">
+<img src="https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/blob/main/REPO-MEDIA/bambulab-studio-orca-slicer-presets-init-view.gif" width="100%">
 
 ## Features
 
@@ -23,37 +23,73 @@ Welcome to the Bambu Studio / Orca Slicer Presets repository! This repository is
 Inductions can be found here for [importing presets](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/blob/main/REPO-MEDIA/presets-import.gif ) and [show hidden files](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/blob/main/REPO-MEDIA/show-hidden-files.gif) to easily access the AppData Folder on Windows.
 
 > [!CAUTION]
-> Also make sure to place place also the inherited presets inside the folder "[main/filament\/inherits](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/tree/main/filament/inherits)" inside the respective preset folders, otherwise some presets which are based on other "presets" will not work!
+> Also make sure to place place also the inherited presets inside the folder "[main/filament\/inherits](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/tree/main/filament/inherits)" inside the respective preset folder, otherwise some presets which are based on other "presets" will not work!
 
-
+# 🪟 Windwos 
 ## For Orca Slicer
-📁 Full Path: 
+<details>
+<summary>📁 Absolute Path: </summary>
+
 ```
 C:\Users\%USERNAME%\AppData\Roaming\OrcaSlicer\user\[NUMBER]
 or
 C:\Users\%USERNAME%\AppData\Roaming\OrcaSlicer\system\BBL\filament
-```  
-📁 Relative Path: 
+```
+</details>
+
+<details>
+<summary>📁 Relative Path: </summary>
+
 ```
 %AppData%\Roaming\OrcaSlicer\user\[NUMBER]
 or
 %AppData%\Roaming\OrcaSlicer\system\BBL\filament
 ```
-
+</details>
 
 ## For Bambu Studio
-📁 Full Path: 
+
+<details>
+<summary>📁 Absolute Path: </summary>
+ 
 ```
 C:\Users\%USERNAME%\AppData\Roaming\BambuStudio\user\[NUMBER]
 or
 C:\Users\%USERNAME%\AppData\Roaming\BambuStudio\system\BBL\filament
 ```
-📁 Relative Path: 
+</details>
+
+<details>
+<summary>📁 Relative Path: </summary>
+ 
 ```
 %AppData%\Roaming\BambuStudio\user\[NUMBER]
 or
 %AppData%\Roaming\BambuStudio\system\BBL\filament
 ```
+</details>
+
+<br>
+
+# 🐧Linux
+## For OrcaSlicer (Flatpak)
+<details>
+<summary>📁 Absolute Path: </summary>
+
+```
+/var/home/$USER/.var/app/io.github.softfever.OrcaSlicer/config/OrcaSlicer/user/default
+or
+$HOME/.var/app/io.github.softfever.OrcaSlicer/config/OrcaSlicer/user/default
+```
+</details>
+
+<details>
+<summary>📁 Relative Path: </summary>
+
+```
+~/.var/app/io.github.softfever.OrcaSlicer/config/OrcaSlicer/user/default
+```
+</details>
 
 # Contributing
 Feel free to fork the repo, submit your own presets, or enhance existing ones. Every contribution helps the community optimize their 3D printing experience!

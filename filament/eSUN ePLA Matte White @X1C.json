@@ -9,10 +9,10 @@
         "0.943"
     ],
     "filament_settings_id": [
-        "eSun ePLA Matte White @X1C"
+        "eSUN ePLA Matte White @X1C"
     ],
     "filament_vendor": [
-        "eSun"
+        "eSUN"
     ],
     "from": "User",
     "hot_plate_temp": [
@@ -23,7 +23,7 @@
     ],
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
-    "name": "eSun ePLA Matte White @X1C",
+    "name": "eSUN ePLA Matte White @X1C",
     "nozzle_temperature": [
         "195"
     ],

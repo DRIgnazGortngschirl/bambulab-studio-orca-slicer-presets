@@ -1,0 +1,27 @@
+{
+    "default_filament_colour": [
+        "#BC9F95"
+    ],
+    "filament_flow_ratio": [
+        "0.954"
+    ],
+    "filament_settings_id": [
+        "WINKLE PLA Cotten Cany Pink @X1C"
+    ],
+    "filament_vendor": [
+        "WINKLE"
+    ],
+    "from": "User",
+    "inherits": "Generic PLA",
+    "name": "WINKLE PLA Cotten Cany Pink @X1C",
+    "nozzle_temperature": [
+        "235"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "235"
+    ],
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "version": "1.7.0.12"
+}

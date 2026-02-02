@@ -6,10 +6,13 @@
         "0.999"
     ],
     "filament_settings_id": [
-        "eSun PLA+ Red"
+        "eSUN PLA+ Red @X1C"
+    ],
+    "filament_vendor": [
+        "eSUN"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "eSun PLA+ Red",
+    "name": "eSUN PLA+ Red @X1C",
     "version": "1.7.0.12"
 }

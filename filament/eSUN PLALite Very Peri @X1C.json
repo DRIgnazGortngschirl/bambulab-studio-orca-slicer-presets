@@ -9,14 +9,14 @@
         "#9141AC"
     ],
     "filament_settings_id": [
-        "eSun PLALite Very Peri"
+        "eSUN PLALite Very Peri @X1C"
     ],
     "filament_vendor": [
-        "eSun"
+        "eSUN"
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "name": "eSun PLALite Very Peri",
+    "name": "eSUN PLALite Very Peri @X1C",
     "nozzle_temperature_range_high": [
         "230"
     ],
