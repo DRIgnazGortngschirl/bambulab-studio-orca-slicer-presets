@@ -20,13 +20,28 @@ Welcome to the Bambu Studio / Orca Slicer Presets repository! This repository is
  2. 📈 Optimize your prints: Use the presets to optimize your 3D printing settings for superior print quality and efficiency.
  3. 📥 Import Presets: Import the chosen presets into your 3D slicer software by downloading the repository and dropping them into the folder respective preset folders.
 
+
+## Importing Preset Bundle
+
+> [!TIP]
+> Importing the presets became a lot easizer 
+
+### Automatically 
+
+- with Orca Slicer ¶ [Import Preset Bundle](https://www.orcaslicer.com/wiki/general_settings/import_export#import-preset-bundle)
+- with Bambu Studio ¶ [4. Import configs feature](https://wiki.bambulab.com/en/bambu-studio/export-filament)
+
+<img src="https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/blob/main/REPO-MEDIA/import-preset-bundle.png" width="30%">
+
+### Manually:
+
 Inductions can be found here for [importing presets](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/blob/main/REPO-MEDIA/presets-import.gif ) and [show hidden files](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/blob/main/REPO-MEDIA/show-hidden-files.gif) to easily access the AppData Folder on Windows.
 
 > [!CAUTION]
-> Also make sure to place place also the inherited presets inside the folder "[main/filament\/inherits](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/tree/main/filament/inherits)" inside the respective preset folder, otherwise some presets which are based on other "presets" will not work!
+> Also make sure to place the inherited presets in the folder "[main/filament\/inherits](https://github.com/DRIgnazGortngschirl/bambulab-studio-orca-slicer-presets/tree/main/filament/inherits)" also inside the respective preset folder, otherwise some presets which are based on "other" presets will not work!
 
 # 🪟 Windwos 
-## For Orca Slicer
+## Orca Slicer
 <details>
 <summary>📁 Absolute Path: </summary>
 
@@ -47,7 +62,7 @@ or
 ```
 </details>
 
-## For Bambu Studio
+## Bambu Studio
 
 <details>
 <summary>📁 Absolute Path: </summary>
@@ -72,7 +87,7 @@ or
 <br>
 
 # 🐧Linux
-## For OrcaSlicer (Flatpak)
+## OrcaSlicer (Flatpak)
 <details>
 <summary>📁 Absolute Path: </summary>
 
@@ -88,6 +103,25 @@ $HOME/.var/app/io.github.softfever.OrcaSlicer/config/OrcaSlicer/user/default
 
 ```
 ~/.var/app/io.github.softfever.OrcaSlicer/config/OrcaSlicer/user/default
+```
+</details>
+
+## Bambu Studio (Flatpak)
+<details>
+<summary>📁 Absolute Path: </summary>
+
+```
+/var/home/$USER/.var/app/com.bambulab.BambuStudio/config/BambuStudio/user/default
+or
+$HOME/.var/app/com.bambulab.BambuStudio/config/BambuStudio/user/default
+```
+</details>
+
+<details>
+<summary>📁 Relative Path: </summary>
+
+```
+~/.var/app/com.bambulab.BambuStudio/config/BambuStudio/user/default
 ```
 </details>
 
